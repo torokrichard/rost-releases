@@ -1,5 +1,7 @@
 # Vizo: versiuni pentru Windows
 
+> **S-a mutat:** versiunile noi sunt in [vizo-releases](https://github.com/torokrichard/vizo-releases). Copiile deja instalate trec singure acolo; nu trebuie facut nimic.
+
 Vizo adună anunțurile de apartamente de vânzare din Brașov (Storia, OLX, Publi24 și altele), le pune pe un singur rând chiar dacă apar pe mai multe site-uri și arată pentru fiecare prețul corect, semnele de negociere, costul real după renovare și naveta.
 
 Aici sunt **doar versiunile gata de instalat**. Codul nu e public.

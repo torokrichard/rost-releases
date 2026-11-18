@@ -1,14 +1,14 @@
 {
- "version": "2026.11.18.2",
- "zip_sha256": "0555aaaa3ac7c1e726c68c89754416eb34c27847df35a19d1d8c280a5015cddb",
- "size": 41817110,
+ "version": "2026.11.18.3",
+ "zip_sha256": "8eee22774987729ffe31b317cefda869b9acac834038b3e590e99003a9864917",
+ "size": 41817250,
  "parts": [
   {
-   "url": "https://raw.githubusercontent.com/torokrichard/rost-releases/main/releases/2026.11.18.2/Vizo-2026.11.18.2.zip",
-   "sha256": "0555aaaa3ac7c1e726c68c89754416eb34c27847df35a19d1d8c280a5015cddb",
-   "size": 41817110
+   "url": "https://raw.githubusercontent.com/torokrichard/vizo-releases/main/releases/2026.11.18.3/Vizo-2026.11.18.3.zip",
+   "sha256": "8eee22774987729ffe31b317cefda869b9acac834038b3e590e99003a9864917",
+   "size": 41817250
   }
  ],
- "published_utc": "2026-11-18T20:28:56+00:00",
- "signature": "Xer4nWBjE/WY3hkonzoozDGel4v1YfJQCf2Ww2PdxQ3NSnkO6zzR96BinnaaySBVkdiRlMF+vyOau2ykDK60Dg=="
+ "published_utc": "2026-11-18T20:42:44+00:00",
+ "signature": "77XUCRi2HV+Kqm4xBUGBfdr/Bd0KAuXANnVHbpfbHBdRA83Av1fdCfADtGZ4dXU0rXEIG6LKceM+bjCAEE99Dw=="
 }
